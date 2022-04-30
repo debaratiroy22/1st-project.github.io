@@ -1,0 +1,150 @@
+body
+{
+  margin: 0;
+  text-align: center;
+}
+/* header */
+.top
+{
+  background-color: #E4AEC5;
+  position: relative;
+  padding-top: 9px;
+  padding-bottom: 0px;
+
+}
+.cloud1
+{
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+
+.cloud2
+{
+  position: absolute;
+  left : 220px;
+  down : 100px;
+}
+h1
+{
+font-family:  Sacramento,sans-serif;
+color: #0C1E7F;
+}
+h2
+{
+  color: #D22779;
+  font-family: Montserrat,sans-serif;
+}
+
+
+/* section */
+section
+{
+text-align: center;
+  font-size: 20px;
+  margin-bottom: 60px;
+  background-color: #FDEFF4;
+  margin: 0px;
+    padding: 50px 0 20px;
+}
+h4
+{
+  font-family: Montserrat,sans-serif;
+  color: #D22779;
+}
+strong
+{
+  color: #D22779;
+  font-family: Montserrat,sans-serif;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #D22779;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+.skill{
+  text-align: center;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-1{
+  width: 25%;
+  float: left;
+  margin-right: 80px;
+  }
+  .skill-2{
+    width: 25%;
+    float: right;
+    margin-left: 80px;
+    }
+    .skill-3{
+      width: 30%;
+      float: left;
+      margin-right: 60px;
+      }
+      .skill-4{
+        width: 25%;
+        float: right;
+        margin-left: 70px;
+        }
+
+
+
+
+.buttonClass {
+  font-size:20px;
+  font-family:Arial;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width:250px;
+  height:150px;
+  border-width:1px;
+  color: #EAEA7F;
+  border-color:#ffffff;
+  border-top-left-radius:9px;
+  border-top-right-radius:9px;
+  border-bottom-left-radius:9px;
+  border-bottom-right-radius:9px;
+  box-shadow:inset 0px 39px 0px -24px #e67a73;
+  text-shadow:inset 0px 1px 0px #b23e35;
+  background:#EF6D6D;
+  text-decoration: none;
+}
+.buttonClass:hover{
+  color:#006778 ;
+}
+
+h5{
+  color: #F24A72;
+  font-family: Montserrat,sans-serif;
+}
+
+/* footer */
+.bottom-container
+{
+ background-color: #EF6D6D;
+   margin: 0;
+  padding: 50px 0 20px;
+  }
+  .footer-link{
+    color:#006778 ;
+    margin: 10px 15px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .footer-link:hover{
+    color:#6EDCD9 ;
+  }
+h6
+{
+  color: #F7F7F7;
+}
